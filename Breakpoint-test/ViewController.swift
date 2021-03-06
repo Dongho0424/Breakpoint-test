@@ -23,6 +23,8 @@ class ViewController: UIViewController {
 //        }
 //        print("총 합은 \(self.sum), \(count)회 실행되었습니다.")
         iu.image = UIImage(named: "sunny.jpeg")
+        
+        print("first commit in Xcode 12")
     }
 }
 
