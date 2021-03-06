@@ -25,6 +25,8 @@ class ViewController: UIViewController {
         iu.image = UIImage(named: "sunny.jpeg")
         
         print("first commit in Xcode 12")
+        
+        print("master branch, 4th commit")
     }
 }
 
